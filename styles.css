@@ -1,0 +1,98 @@
+.navbar{
+  height: 75px;
+}
+
+/* carousel style */
+#carouselExampleIndicators {
+  height: 70vh;
+  /* Set height to 80% of the viewport height */
+}
+
+.carousel-inner {
+  height: 100%;
+  /* Ensure images fill the carousel height */
+}
+
+.carousel-item {
+  height: 100%;
+  /* Ensure images fill the carousel height */
+}
+
+.carousel-item img {
+  object-fit: cover;
+  /* Ensure images cover the entire carousel item */
+  height: 100%;
+  /* Ensure images fill the carousel item height */
+  width: 100%;
+  /* Ensure images fill the carousel item width */
+}
+
+/* styles for welcome space */
+.jumbotron {
+  margin-top: 5px;
+}
+
+/* what do we offer section styles */
+.black-jumbotron {
+  background-color: rgba(0, 0, 0, 0.85); /* Semi-transparent black background */
+  color: #fff; /* White text color */
+  padding: 40px 0;
+  margin-bottom: 20px; /* Remove default bottom margin */
+  
+}
+
+.offer-item {
+  padding: 20px;
+  display: flex;
+  align-items: center; /* Align content vertically */
+}
+
+.offer-item img {
+  max-width: 100%;
+  height: auto;
+  margin-right: 20px; /* Add margin to separate image from text */
+}
+
+.card {
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05); 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+}
+.category-item{
+  transition: transform 0.3s ease;
+}
+
+.category-item:hover {
+  transform: scale(1.05); 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+}
+
+footer{
+  margin-top: 20px;
+}
+
+.category-item {
+  width: 200px; 
+  height: 200px; 
+  background-color: #ccc;
+  border-radius: 50%; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+
+.category-item img{
+  border-radius: 50%;
+}
+
+.explore{
+  height: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
