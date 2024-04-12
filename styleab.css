@@ -1,0 +1,196 @@
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+body{
+  font-family: "Poppins",sans-serif;
+}
+.cool{
+  height: 600px;
+  width: 600px;
+  /* margin: 50px 40px 0 75px; */
+  border-radius: 50%;
+  /* display: flex; */
+  position: absolute;
+  top: 50%; /* Position the text at the vertical center of the container */
+  left: 50%; /* Position the text at the horizontal center of the container */
+  transform: translate(-50%, -50%); /* Center the text precisely */
+  font-size: 24px; /* Text size */
+  font-weight: bold; /* Text weight */
+  text-align: center; /* Center-align the text */
+  margin-bottom: 350px;
+  margin-top: 125px;
+  background: linear-gradient(to bottom right, rgba(255,255,255,0), rgba(255,255,255,0.8)); /*Gradient for shine effect */
+  /* animation: shine 2s infinite alternate; */
+  
+}
+.we,.uss{
+  font-family:"Poppins",sans-serif;
+  /* color: rgb(8, 8, 7); */
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 10px;
+  
+}
+.cool img{
+  height: 600px;
+  width: 600px;
+  font-size: 10px;
+  /* margin: 50px 40px 0 75px; */
+  border-radius: 50%;
+  opacity: 0.5;
+  transition: transform 0.3s ease;
+
+}
+
+.fantasy img:hover{
+  /* box-shadow: purple; */
+  transform: scale(1.1);
+}
+.address,
+.contact 
+.ols{
+  width: 15%;
+}
+.uss{
+  color: rgb(11, 11, 10);
+  font-size: 20px;
+  font-family:"poppins",sans-serif;
+  text-align: center;
+  margin-top: 200px;
+  position: absolute;
+  top: 50%; /* Position the text at the vertical center of the container */
+  left: 50%; /* Position the text at the horizontal center of the container */
+  transform: translate(-50%, -50%); /* Center the text precisely */
+  color: rgb(11, 11, 11); /* Text color */
+  font-size: 24px; /* Text size */
+  font-weight: bold; /* Text weight */
+  text-align: center; /* Center-align the text */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+
+.address h3,
+.contact h3
+.ols h4 {
+  margin-bottom: 10px;
+}
+
+.address p,
+.contact p {
+  margin-bottom: 5px;
+}
+
+/* Style for the footer content */
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+    .card{
+      /* display:; */
+      margin-top: 40px;
+      margin-left: 40%;
+      margin-bottom: 10px;
+      /* border: 2px black; */
+    }
+    #humsb{margin-top: 710PX;
+  display: flex;
+  height: 480px;
+  justify-content:center;
+}
+#lavanya{
+  height: 200px;
+  width: 200px;
+  margin: 50px 40px 0 75px;
+  border-radius: 50%;
+}
+#lavanya:hover{
+  transform: scale(1.1);
+  transition:transform 0.3s ease;
+}
+#yash{
+  height: 200px;
+  width: 200px;
+  margin: 50px 40px 0 75px;
+  border-radius: 50%;
+}
+#yash:hover{
+  transform: scale(1.1);
+  transition:transform 0.3s ease;
+}
+#neelam{
+  height: 200px;
+  width: 200px;
+  margin: 50px 40px 0 75px;
+  border-radius: 50%;
+}
+#neelam:hover{
+  transform: scale(1.1);
+  transition:transform 0.3s ease;
+}
+#astha{
+  height: 200px;
+  width: 200px;
+  margin: 50px 40px 0 75px;
+  border-radius: 50%;
+}
+#astha:hover{
+  transform: scale(1.1);
+  transition:transform 0.3s ease;
+}
+#astha img{height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+body{
+
+}
+#yash img{height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+/* #yashshree img:hover{
+  transform: scale(1.1);
+  transition:transform 0.3s ease ;
+} */
+#neelam img{height: 200px;
+  width: 200px;
+  border-radius: 50%;
+
+}
+#lavanya img{height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+.bastha{
+  height: 400px;
+  margin-top: 40px;
+}
+
+#castha{
+  text-align: center;
+  font-family:cursive;
+  color: rgb(9, 9, 8);
+  margin-top: 10PX
+}
+#castha:hover{
+  color: blue;
+}
+*{
+  margin: 0;
+  padding: 0;
+  /* padding-top: 0px; */
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+    body{
+      /* background-image:url(https://cdn.pixabay.com/photo/2021/04/06/14/41/appetizers-6156581_1280.jpg);*/
+    }
+    .about{
+      text-align: center;
+      color: rgb(246, 246, 240);
+      margin-top: 36px;
+    }
+    
